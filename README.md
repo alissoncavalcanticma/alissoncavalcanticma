@@ -15,12 +15,12 @@
   </a>
 </p>
 
-
+<!--
 <p align="center">
   Confira eventos que eu participei, organanizei ou contribui
 </p>
 
-<!--
+
 <details>
 <summary>Educational Content</summary>
  
