@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alissoncavalcanticma&show_icons=true&theme=dracula">
 </p>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alissoncavalcanticma)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
