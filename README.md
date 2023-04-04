@@ -7,6 +7,8 @@
   <img align="center" height="190" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alissoncavalcanticma&layout=compact&theme=dracula" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alissoncavalcanticma)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <a href="https://dev.to/alissoncavalcanticma" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alissoncavalcanticma" height="35" width="35" />
