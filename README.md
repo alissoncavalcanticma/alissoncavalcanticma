@@ -31,7 +31,7 @@
 </a>
 
 ### MY LINKEDIN
-<a href="https://www.linkedin.com/in/alissoncavalcanticma/">
+<a href="https://www.linkedin.com/in/alisson-cavalcanti-417b30b8/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
