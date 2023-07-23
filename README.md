@@ -1,8 +1,22 @@
+# Alisson Cavalcanti
+
+[![Linkedin Badge](https://img.shields.io/badge/-Alisson%20cavalcanti-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alisson-cavalcanti-417b30b8/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-alissoncavalcanticma@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alissoncavalcanticma@gmail.com)](mailto:alissoncavalcanticma@gmail.com)
+
+IT Professional since 2007.
+
 <div align="center">
   <a href="https://github.com/alissoncavalcanticma">
   <img height="230em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alissoncavalcanticma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissoncavalcanticma&theme=dracula&hide=python,html,css,tsql,hack"/>
 </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tchiotludo&theme=dracula&hide_title=true&disable_animations=true&count_private=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchiotludo&theme=dracula&layout=compact" />
+</a>
 ## 
 
 ## 
