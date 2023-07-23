@@ -34,8 +34,3 @@ IT Professional since 2007.
 
 </a>
 
-### MY LINKEDIN
-<a href="https://www.linkedin.com/in/alisson-cavalcanti-417b30b8/">
-  <img align="left" alt="Alisson LinkedIN" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />
-</a>
-
