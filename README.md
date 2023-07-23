@@ -15,7 +15,7 @@ IT Professional since 2007.
   <img height="230em" align="center" src="https://github-readme-stats.vercel.app/api?username=alissoncavalcanticma&theme=dracula&hide_title=true&disable_animations=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissoncavalcanticma&theme=dracula&hide_title=true&disable_animations=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissoncavalcanticma&theme=dracula&hide=python,html,css,tsql,hack" />
 </a>
 ## 
 
