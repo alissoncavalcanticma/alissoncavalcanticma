@@ -16,7 +16,7 @@ IT Professional since 2007.
 ### Languages, Frameworks and Technologies :computer:
 <p>
 <!--JAVA-->
-<code><img height="40" src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png"></code>
+<code><img height="40" src="https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/java-emergency-upgrade-installers-showcase_image-2-p-2057.jpg"></code>
 <!--MULESOFT-->
 <code><img height="40" src="https://www.kindpng.com/picc/m/13-138791_best-practices-for-mule-project-mulesoft-hd-png.png"></code>
 <!--NodeJS-->
