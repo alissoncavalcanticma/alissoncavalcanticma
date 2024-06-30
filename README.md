@@ -16,7 +16,7 @@ IT Professional since 2007.
 ### Languages, Frameworks and Technologies :computer:
 <p>
 <!--JAVA-->
-<code><img height="40" src="https://www.kindpng.com/picc/m/31-312036_java-programming-language-hd-png-download.png"></code>
+<code><img height="40" src="https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png"></code>
 <!--MULESOFT-->
 <code><img height="40" src="https://www.kindpng.com/picc/m/13-138791_best-practices-for-mule-project-mulesoft-hd-png.png"></code>
 <!--NodeJS-->
