@@ -19,6 +19,8 @@ IT Professional since 2007.
 <code><img height="40" src="https://4a7efb2d53317100f611-1d7064c4f7b6de25658a4199efb34975.ssl.cf1.rackcdn.com/java-emergency-upgrade-installers-showcase_image-2-p-2057.jpg"></code>
 <!--MULESOFT-->
 <code><img height="40" src="https://www.kindpng.com/picc/m/13-138791_best-practices-for-mule-project-mulesoft-hd-png.png"></code>
+<!--C#-->
+<code>[<img height="40" alt=".NET Core" src="https://e7.pngegg.com/pngimages/385/581/png-clipart-brand-logo-microsoft-net-and-sap-microsoft-lumia-paperback-framework-icon-purple-blue-thumbnail.png"></code>
 <!--NodeJS-->
 <code><img height="40" src="https://www.kindpng.com/picc/m/656-6568580_nodejs-logo-png-transparent-node-js-icon-png.png"></code>
 <!--JAVASCRIPT-->
