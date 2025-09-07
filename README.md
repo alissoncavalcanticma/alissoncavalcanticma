@@ -20,7 +20,7 @@ IT Professional since 2007.
 <!--MULESOFT-->
 <code><img height="40" src="https://www.kindpng.com/picc/m/13-138791_best-practices-for-mule-project-mulesoft-hd-png.png"></code>
 <!--C#-->
-<code>[<img height="40" alt=".NET Core" src="https://e7.pngegg.com/pngimages/385/581/png-clipart-brand-logo-microsoft-net-and-sap-microsoft-lumia-paperback-framework-icon-purple-blue-thumbnail.png"></code>
+<code><img height="40" alt=".NET Core" src="https://e7.pngegg.com/pngimages/385/581/png-clipart-brand-logo-microsoft-net-and-sap-microsoft-lumia-paperback-framework-icon-purple-blue-thumbnail.png"></code>
 <!--NodeJS-->
 <code><img height="40" src="https://www.kindpng.com/picc/m/656-6568580_nodejs-logo-png-transparent-node-js-icon-png.png"></code>
 <!--JAVASCRIPT-->
