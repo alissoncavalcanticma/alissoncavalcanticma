@@ -11,7 +11,7 @@ IT Professional since 2007.
   <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissoncavalcanticma&theme=dracula&hide=python,html,css,tsql,hack,pug,mustache"/>
 </div>
     
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alissoncavalcanticma)](https://github.com/alissoncavalcanticma/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
